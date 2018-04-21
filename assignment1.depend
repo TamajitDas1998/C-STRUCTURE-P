@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521571786 source:c:\users\tamajit\desktop\assignment1\main.c
+	<stdio.h>
+	<math.h>
+
